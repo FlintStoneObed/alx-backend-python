@@ -1,20 +1,7 @@
 #!/usr/bin/env python3
+"""Contains a single function that concatenates two strings."""
 
-"""
-Module for mathematical operations.
-"""
 
-import math
-
-def floor(n: float) -> int:
-    """
-    Compute the floor of a float.
-
-    Args:
-        n (float): The float value to floor.
-
-    Returns:
-        int: The largest integer less than or equal to the float.
-    """
-    return math.floor(n)
-
+def concat(str1: str, str2: str) -> str:
+    """Concatenates two strings."""
+    return str1 + str2
