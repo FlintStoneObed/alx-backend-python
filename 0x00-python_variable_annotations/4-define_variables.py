@@ -1,12 +1,9 @@
 #!/usr/bin/env python3
+'''Task 4's module.
+'''
+
 
 a: int = 1
 pi: float = 3.14
 i_understand_annotations: bool = True
-school: str = "Holberton"
-
-"""
-Module documentation:
-This module defines and annotates variables with specified values.
-"""
-
+school: str = 'Holberton'
