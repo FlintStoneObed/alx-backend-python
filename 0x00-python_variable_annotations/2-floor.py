@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
-"""Contains a single function that concatenates two strings."""
+'''Task 2's module.
+'''
 
 
-def concat(str1: str, str2: str) -> str:
-    """Concatenates two strings."""
-    return str1 + str2
+def floor(a: float) -> int:
+    '''Computes the floor of a floating-point number.
+    '''
+    return int(a)
