@@ -109,8 +109,6 @@ Contributions to this project are welcome! If you have suggestions or improvemen
 3. Commit your changes with descriptive messages.
 4. Push your branch and create a pull request.
 
-Please refer to our [CONTRIBUTING.md](CONTRIBUTING.md) for more detailed guidelines.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
