@@ -108,15 +108,3 @@ Contributions to this project are welcome! If you have suggestions or improvemen
 2. Create a new branch for your changes.
 3. Commit your changes with descriptive messages.
 4. Push your branch and create a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or comments, please reach out to [your-email@example.com](mailto:your-email@example.com).
-
----
-
-Happy coding with Python's variable annotations!
